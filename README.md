@@ -1,6 +1,7 @@
 ** 🚀Features**
 
 🚦 Expo SDK for streamlined development & deployment
+
 🎨 NativeWind (Tailwind CSS) for styling
 🎨 Light/Dark theme support
 🌍 Localization (i18n) ready (e.g., English & Arabic)
